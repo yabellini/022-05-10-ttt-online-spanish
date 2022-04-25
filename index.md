@@ -260,15 +260,15 @@ para recibir más información.
    <div class="col-md-6">
     <h3>Día 4 - Jueves 19 de Mayo</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Bienvenides de Nuevo </td> </tr>
-      <tr> <td>09:10</td> <td>Proceso de Checkout </td> </tr>
-      <tr> <td>09:30</td> <td>The Carpentries: cómo operamos </td> </tr>
-      <tr> <td>11:15</td> <td>Recreo </td> </tr>
-      <tr> <td>11:30</td> <td>Presentación de los talleres </td> </tr>
-      <tr> <td>12:10</td> <td>Cómo armarlo todo </td> </tr>
-      <tr> <td>12:00</td> <td>Conclusiones </td> </tr>
-      <tr> <td>12:15</td> <td>Encuesta post curso </td> </tr>
-      <tr> <td>12:30</td> <td>Terminando </td> </tr>
+      <tr> <td>13:00</td> <td>Bienvenides de Nuevo </td> </tr>
+      <tr> <td>13:10</td> <td>Proceso de Checkout </td> </tr>
+      <tr> <td>13:30</td> <td>The Carpentries: cómo operamos </td> </tr>
+      <tr> <td>14:15</td> <td>Recreo </td> </tr>
+      <tr> <td>14:30</td> <td>Presentación de los talleres </td> </tr>
+      <tr> <td>15:10</td> <td>Cómo armarlo todo </td> </tr>
+      <tr> <td>15:00</td> <td>Conclusiones </td> </tr>
+      <tr> <td>15:15</td> <td>Encuesta post curso </td> </tr>
+      <tr> <td>15:30</td> <td>Terminando </td> </tr>
     </table>
   </div>
 </div>
