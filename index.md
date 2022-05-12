@@ -247,14 +247,14 @@ para recibir más información.
   <div class="col-md-6">
     <h3>Día 3 - Martes 17 de Mayo</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Bienvenides de nuevo </td> </tr>
-      <tr> <td>09:10</td> <td>La programación en vivo es una habilidad </td> </tr>
-      <tr> <td>10:20</td> <td>Recreo </td> </tr>
-      <tr> <td>10:30</td> <td>Preparandote para enseñar </td> </tr>
-      <tr> <td>11:20</td> <td>Recreo </td> </tr>
-      <tr> <td>11:30</td> <td>Seguimos practicando programación en vivo </td> </tr>
-      <tr> <td>12:15</td> <td>Gestionando un curso diverso </td> </tr>
-      <tr> <td>12:45</td> <td>Terminando </td> </tr>
+      <tr> <td>13:00</td> <td>Bienvenides de nuevo </td> </tr>
+      <tr> <td>13:10</td> <td>La programación en vivo es una habilidad </td> </tr>
+      <tr> <td>13:20</td> <td>Recreo </td> </tr>
+      <tr> <td>13:30</td> <td>Preparandote para enseñar </td> </tr>
+      <tr> <td>13:20</td> <td>Recreo </td> </tr>
+      <tr> <td>13:30</td> <td>Seguimos practicando programación en vivo </td> </tr>
+      <tr> <td>14:15</td> <td>Gestionando un curso diverso </td> </tr>
+      <tr> <td>14:45</td> <td>Terminando </td> </tr>
     </table>
   </div>
    <div class="col-md-6">
